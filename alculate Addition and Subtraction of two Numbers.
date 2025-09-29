@@ -1,0 +1,8 @@
+//Addition and Subtraction of two numbers
+a = int(input("Enter first number: "))
+b = int( input("Enter second number: "))
+Sum = a+b; #Add two numbers
+Difference = a-b; #Subtract two numbers
+# To print the result
+print("Addition of two numbers = ",Sum)
+print("Subtraction of two numbers = ",Difference)
