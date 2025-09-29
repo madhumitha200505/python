@@ -1,0 +1,8 @@
+import cmath
+a = 3
+b = 7
+c = 8
+d = (b**2)-(4*a*c)
+eq1 = (-b-cmath.sqrt(d))/(2*a)
+eq2 = (-b+cmath.sqrt(d))/(2*a)
+print("The solutions are: ",eq1,eq2)
